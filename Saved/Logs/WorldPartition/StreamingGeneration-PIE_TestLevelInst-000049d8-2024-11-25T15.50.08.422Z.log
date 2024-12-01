@@ -1,0 +1,41 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/TestLevelInst
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:244B494342459902198FD4A6D57A61DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624405286 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-1100.000 Z=0.000), Max=(X=550.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7E615ED24F337BD3D93EC0A1DE443BB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624409288 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-1100.000 Z=0.000), Max=(X=50.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9C7A3D1B4D4F33E867A3A689AA4ED57B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624408287 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-1100.000 Z=0.000), Max=(X=-450.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E272527A4354F25D24B5B480D022ECB4 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:244B494342459902198FD4A6D57A61DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624405286 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-1100.000 Z=0.000), Max=(X=550.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:7E615ED24F337BD3D93EC0A1DE443BB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624409288 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-1100.000 Z=0.000), Max=(X=50.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:9C7A3D1B4D4F33E867A3A689AA4ED57B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B42E99E70A983E3202_1624408287 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-1100.000 Z=0.000), Max=(X=-450.000 Y=1100.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:E272527A4354F25D24B5B480D022ECB4 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/TestLevelInst
+----------------------------------------------------------------------------------------------------------------
+TestLevelInst - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of TestLevelInst Persistent Level
+ |- Always loaded Actor Count: 4 
+ |- Actor Path: /Game/Maps/TestLevelInst.TestLevelInst:PersistentLevel.StaticMeshActor_UAID_B42E99E70A983E3202_1624405286
+ |- Actor Package: /Game/__ExternalActors__/Maps/TestLevelInst/2/PH/J8VIW4NA7BMRJH6TPW64DY
+ |- Actor Path: /Game/Maps/TestLevelInst.TestLevelInst:PersistentLevel.StaticMeshActor_UAID_B42E99E70A983E3202_1624408287
+ |- Actor Package: /Game/__ExternalActors__/Maps/TestLevelInst/C/0K/EMANZ5IX25ZLAPPVFDY9BA
+ |- Actor Path: /Game/Maps/TestLevelInst.TestLevelInst:PersistentLevel.StaticMeshActor_UAID_B42E99E70A983E3202_1624409288
+ |- Actor Package: /Game/__ExternalActors__/Maps/TestLevelInst/8/8Y/WUYJ88L1NCPV9Z24LHWY7C
+ |- Actor Path: /Game/Maps/TestLevelInst.TestLevelInst:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/TestLevelInst/D/D9/8HJ5KWLDGQ8SGEAMO59IVO
+
+----------------------------------------------------------------------------------------------------------------
+TestLevelInst - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
